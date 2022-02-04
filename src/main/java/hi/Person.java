@@ -97,6 +97,7 @@ public class Person
 	
 	public static void main(String[] args)
 	{
+		Person m = new Person("Mon", "Romeo", 14);
 		Person r = new Person("Romeo", "Mon", 15);
 		
 		System.out.println("R "+r);
